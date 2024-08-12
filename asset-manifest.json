@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LJL_WaveComp/static/css/main.6bf8b69d.css",
+    "main.js": "/LJL_WaveComp/static/js/main.21a84924.js",
+    "index.html": "/LJL_WaveComp/index.html",
+    "main.6bf8b69d.css.map": "/LJL_WaveComp/static/css/main.6bf8b69d.css.map",
+    "main.21a84924.js.map": "/LJL_WaveComp/static/js/main.21a84924.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bf8b69d.css",
+    "static/js/main.21a84924.js"
+  ]
+}
